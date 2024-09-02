@@ -1,1 +1,1 @@
-# Random-password-generator-using-python-tkinter-
+# Random-password-generator-using-python-and-tkinter-
